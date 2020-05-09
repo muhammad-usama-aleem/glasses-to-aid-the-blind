@@ -1,97 +1,97 @@
 # glasses-to-aid-the-blind
 
-in this project, I decided to make the program which can help the blind to recognize the person, objects and then tell the blind person in the ear through ear piece what was detected.
+in this project, I decided to make the program which can help the blind to recognize the person, objects and then tell the blind person in the ear through ear piece what was detected.<br />
 
-This program right now can recognize the registered person, detect 80 different objects:
-    person
-    bicycle
-    car
-    motorbike
-    aeroplane
-    bus
-    train
-    truck
-    boat
-    traffic light
-    fire hydrant
-    stop sign
-    parking meter
-    bench
-    bird
-    cat
-    dog
-    horse
-    sheep
-    cow
-    elephant
-    bear
-    zebra
-    giraffe
-    backpack
-    umbrella
-    handbag
-    tie
-    suitcase
-    frisbee
-    skis
-    snowboard
-    sports ball
-    kite
-    baseball bat
-    baseball glove
-    skateboard
-    surfboard
-    tennis racket
-    bottle
-    wine glass
-    cup
-    fork
-    knife
-    spoon
-    bowl
-    banana
-    apple
-    sandwich
-    orange
-    broccoli
-    carrot
-    hot dog
-    pizza
-    donut
-    cake
-    chair
-    sofa
-    pottedplant
-    bed
-    diningtable
-    toilet
-    tvmonitor
-    laptop
-    mouse
-    remote
-    keyboard
-    cell phone
-    microwave
-    oven
-    toaster
-    sink
-    refrigerator
-    book
-    clock
-    vase
-    scissors
-    teddy bear
-    hair drier
-    toothbrush
+This program right now can recognize the registered person, detect 80 different objects:<br />
+    person<br />
+    bicycle<br />
+    car<br />
+    motorbike<br />
+    aeroplane<br />
+    bus<br />
+    train<br />
+    truck<br />
+    boat<br />
+    traffic light<br />
+    fire hydrant<br />
+    stop sign<br />
+    parking meter<br />
+    bench<br />
+    bird<br />
+    cat<br />
+    dog<br />
+    horse<br />
+    sheep<br />
+    cow<br />
+    elephant<br />
+    bear<br />
+    zebra<br />
+    giraffe<br />
+    backpack<br />
+    umbrella<br />
+    handbag<br />
+    tie<br />
+    suitcase<br />
+    frisbee<br />
+    skis<br />
+    snowboard<br />
+    sports ball<br />
+    kite<br />
+    baseball bat<br />
+    baseball glove<br />
+    skateboard<br />
+    surfboard<br />
+    tennis racket<br />
+    bottle<br />
+    wine glass<br />
+    cup<br />
+    fork<br />
+    knife<br />
+    spoon<br />
+    bowl<br />
+    banana<br />
+    apple<br />
+    sandwich<br />
+    orange<br />
+    broccoli<br />
+    carrot<br />
+    hot dog<br />
+    pizza<br />
+    donut<br />
+    cake<br />
+    chair<br />
+    sofa<br />
+    pottedplant<br />
+    bed<br />
+    diningtable<br />
+    toilet<br />
+    tvmonitor<br />
+    laptop<br />
+    mouse<br />
+    remote<br />
+    keyboard<br />
+    cell phone<br />
+    microwave<br />
+    oven<br />
+    toaster<br />
+    sink<br />
+    refrigerator<br />
+    book<br />
+    clock<br />
+    vase<br />
+    scissors<br />
+    teddy bear<br />
+    hair drier<br />
+    toothbrush<br />
+<br />
 
-
-we will be using  
-1- A pair of glasses
-2- A raspberry pi 
-3- 3mm camera
-4- headphones/ear piece
-
-to make this program work you will be needing two files named as "yolov3.cfg" and "yolov3.weights". I have attached one file named as "yolov3.cfg" here and other file named as "yolov3.weights" you can download from https://drive.google.com/drive/u/0/folders/1-e8s1mF_QAlGSRbBX3b0JcWmWQtmVjNe
+we will be using<br />  
+1- A pair of glasses<br />
+2- A raspberry pi <br />
+3- 3mm camera<br />
+4- headphones/ear piece<br />
+<br />
+to make this program work you will be needing three files named as "yolov3.cfg", "coco.names" and "yolov3.weights".<br /> I have attached two file named as "yolov3.cfg" and "coco.names" here and other file named as "yolov3.weights" you can download from https://drive.google.com/drive/u/0/folders/1-e8s1mF_QAlGSRbBX3b0JcWmWQtmVjNe
 
 this project is still in progress phase.
 will appriciate any kind of help in coding.
