@@ -8,7 +8,7 @@ we will be using
 3- 3mm camera
 4- headphones/ear piece
 
-to make this program work you will be needing two files named as "yolov3.cfg" and "yolov3.weights". I have attached the one file here and other file you can download from https://drive.google.com/drive/u/0/folders/1-e8s1mF_QAlGSRbBX3b0JcWmWQtmVjNe
+to make this program work you will be needing two files named as "yolov3.cfg" and "yolov3.weights". I have attached one file named as "yolov3.cfg" here and other file named as "yolov3.weights" you can download from https://drive.google.com/drive/u/0/folders/1-e8s1mF_QAlGSRbBX3b0JcWmWQtmVjNe
 
 this project is still in progress phase.
 will appriciate any kind of help in coding.
