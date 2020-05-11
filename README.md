@@ -2,6 +2,10 @@
 
 in this project, I decided to make the program which can help the blind to recognize the person, objects and then tell the blind person in the ear through ear piece what was detected.<br />
 
+the goggles 3D model that I created will look like this.
+![](2.jpeg)
+![](1.jpeg)
+
 This program right now can recognize the registered person, detect 80 different objects:<br />
     person<br />
     bicycle<br />
